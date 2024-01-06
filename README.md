@@ -1,2 +1,2 @@
-# C-plus-plus-intennship-codes
+# C-plus-plus-internship-codes
 sample codes in C++
